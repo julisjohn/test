@@ -1,4 +1,6 @@
+//this is the file before
 
+//thanks 
 cket
 **Librdmacm accomplish interfaces between TCP and UDP protocol, but go through RDMA network internally. The dmm_rsocket become a Protocol stack in DMM by adapting to the DMM based on the librdmacm 1.1.0 version to framework.**
 
